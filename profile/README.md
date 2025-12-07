@@ -46,15 +46,11 @@
 
 ## <span id="feature">✨ 2. 주요 화면 및 기능 <span>
 
-
-
-| **카드 혜택 설명 및 비교** |  **혜택 기반 카드 상품 추천** |
-| :------: |  :------: |
-| :------: |  :------: |
-| **금융 용어 QnA** | **카드 상품 및 가입 관련 QnA** |
-| :------: |  :------: |
-| **개인 소비 패턴 기반 카드 추천** |  |
-| :------: |   |
+| **카드 혜택 설명 및 비교** | **혜택 기반 카드 상품 추천** | **개인 소비 패턴 기반 카드 추천** |
+| :------: | :------: | :------: |
+| <img height="720" alt="image 74" src="https://github.com/user-attachments/assets/9d7e56f3-efb2-48db-85b1-d4b421e566b0" /> | <img height="720" alt="image 75" src="https://github.com/user-attachments/assets/b569ca2e-2c45-4df9-a6c6-b731a1584cc3" /> | <img height="720" alt="image 78" src="https://github.com/user-attachments/assets/0f0f17d5-8e2e-4ed7-a422-a11c448f4f48" /> |
+| **카드 상품 및 가입 관련 QnA** | **금융 용어 QnA** | **기본 응답 및 사용자 피드백** |
+| <img height="720" alt="image 77" src="https://github.com/user-attachments/assets/9322aec7-fdfc-4f5b-9c2c-144b94b74a79" /> | <img height="720" alt="image 62" src="https://github.com/user-attachments/assets/c41fe1b8-4ba4-4792-8d18-d0dcb4bb0f19" /> | <img height="720" alt="image 80" src="https://github.com/user-attachments/assets/cced9ae3-f8b3-42b3-bb45-b23070eb74f9" /> |
 
 ### ⭐ **카드 혜택 설명 및 비교**
 
@@ -65,7 +61,6 @@
 ### ⭐ **카드 상품 및 가입 관련 QnA**
 
 ### ⭐ **개인 소비 패턴 기반 카드 추천**
-
 
 
 ## 📽️ 3. 시연 영상
