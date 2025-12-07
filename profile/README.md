@@ -86,7 +86,7 @@
 | **강인혁** |  **배시훈** | **이정환** |
 | :------:  | :------: | :------: |
 | [<img src="https://github.com/user-attachments/assets/6dfcd51d-b377-4fab-b93f-0f8bbd534de0" height=160/> <br/> @kenkang99](https://github.com/kenkang99) | [<img src="https://github.com/user-attachments/assets/56f857a8-82b1-4bbc-982e-e943a8d3e454" height=160/> <br/> @BaeSihun](https://github.com/BaeSihun) | [<img src="https://github.com/user-attachments/assets/f3bb5246-57b7-4640-8d98-8820a5a7af86" height=160/> <br/> @ljh4770](https://github.com/ljh4770) |
-
+| **PM**/**AI Engr.** | **Data Engr.**/**ML Engr.** | **FE/BE**/**Infra Engr.** |
 
 ## 📚 6. 역할 분담
 
@@ -141,6 +141,6 @@
 
 | 항목 | 내용 |
 |------|-------|
-| **소속** | 우리 FIS Academy AI 엔지니어링 과정 4팀 |
+| **소속** | 우리 FIS Academy 5기 AI 엔지니어링 과정 4팀 |
 | **프로젝트 기간** | 2025.10.13 ~ 2025.12.05 |
 | **사용 데이터 출처** | - [우리카드 상품 설명 데이터](https://pc.wooricard.com/dcpc/yh1/crd/crd02/H1CRD202S00.do?ctgrCd=S000017&hiPrdCtgrCd=M110018)<br> - [우리카드 FAQ](https://pc.wooricard.com/dcpc/yh1/cct/cct03/H1CCT203S07.do)<br> - [개인 소비 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=&topMenu=&srchOptnCnd=OPTNCND001&searchKeyword=&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM015&aihubDataSe=data&dataSetSn=71792)<br> - [금융 용어 (CREFIA)](https://gongsi.crefia.or.kr/portal/financialProdInfo/finanGlossary)<br> - [금융 용어 (한경)](https://dic.hankyung.com/economy/list/?word=%EC%8B%A0%EC%9A%B0%EC%B9%B4%EB%93%9C)<br> - [금융 용어 (FSS)](https://fine.fss.or.kr/fine/fnctip/fncDicary/list.do?menuNo=900021&pageIndex=3&src=&kind=&searchCnd=1&searchStr=)<br> - [금융 용어 (Koscom)](https://www.koscom.co.kr/portal/bbs/B0000034/list.do?ise=P&searchWrd=&menuNo=200646) |
