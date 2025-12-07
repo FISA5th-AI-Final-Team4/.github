@@ -65,9 +65,12 @@
 
 ## 📽️ 3. 시연 영상
 
-<video src="../assets/demo.mp4" controls width="1920">
-  브라우저에서 동영상 태그를 지원하지 않는 경우를 대비한 대체 텍스트
+<video src="https://github.com/user-attachments/assets/7d841893-f65e-42cc-bebe-09b9431e75a9" controls width="1920">
+    [시연 영상 파일 주소](https://github.com/FISA5th-AI-Final-Team4/.github/tree/main/assets)
 </video>
+
+
+
 
 
 
