@@ -1,6 +1,7 @@
 # 개인 맞춤형 카드 추천 Agent 🤖 - 챗봇의 정석  
 
-목업 이미지
+<img width="1920" height="1080" alt="mockup" src="https://github.com/user-attachments/assets/4f6bc1e1-b517-43f3-bef9-c3d496d2ebe2" />
+
 
 ---
 
@@ -73,7 +74,10 @@
 
 ## 4. 📦 시스템 아키텍처
 
-시스템 아키텍쳐 이미지
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/465fee69-c97e-4795-85ee-8dde31d2fdcb" />
+
+<img width="1920" height="765" alt="image" src="https://github.com/user-attachments/assets/dc95ab7e-1c61-4165-b461-1a73ed1e9846" />
+
 
 
 ## 5. 😎 팀원 소개
