@@ -154,6 +154,8 @@
 
 ## 📝 7. 프로젝트 정보
 
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/d8ebb725-ed65-4a25-870e-31f2ae3593d3" />
+
 
 | 항목 | 내용 |
 |------|-------|
