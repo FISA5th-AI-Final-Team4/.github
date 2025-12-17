@@ -101,7 +101,7 @@
 
 | **강인혁** |  **배시훈** | **이정환** |
 | :------:  | :------: | :------: |
-| [<img src="https://github.com/user-attachments/assets/6dfcd51d-b377-4fab-b93f-0f8bbd534de0" height=160/> <br/> @kenkang99](https://github.com/kenkang99) | [<img src="https://github.com/user-attachments/assets/56f857a8-82b1-4bbc-982e-e943a8d3e454" height=160/> <br/> @BaeSihun](https://github.com/BaeSihun) | [<img src="https://github.com/user-attachments/assets/f3bb5246-57b7-4640-8d98-8820a5a7af86" height=160/> <br/> @ljh4770](https://github.com/ljh4770) |
+| [<img src="https://github.com/user-attachments/assets/d01d9739-e396-431d-9014-4801c3305d96" height=160/> <br/> @kenkang99](https://github.com/kenkang99) | [<img src="https://github.com/user-attachments/assets/56f857a8-82b1-4bbc-982e-e943a8d3e454" height=160/> <br/> @BaeSihun](https://github.com/BaeSihun) | [<img src="https://github.com/user-attachments/assets/f3bb5246-57b7-4640-8d98-8820a5a7af86" height=160/> <br/> @ljh4770](https://github.com/ljh4770) |
 | **PM**/**AI Engr.** | **Data Engr.**/**ML Engr.** | **FE/BE**/**Infra Engr.** |
 
 ## 📚 6. 역할 분담
